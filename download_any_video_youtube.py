@@ -18,21 +18,3 @@ best = video.getbest()
 best.resolution, best.extension
 download1 = best.download(filepath="E:\Songs")
 print(x,'is downloaded successfully')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
